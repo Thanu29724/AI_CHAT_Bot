@@ -47,7 +47,7 @@ ai_chat_bot/
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/ai_chat_bot.git
+git clone https://github.com/Thanu29724/ai_chat_bot.git
 cd ai_chat_bot
 ```
 
